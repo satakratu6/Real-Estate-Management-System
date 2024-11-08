@@ -1438,7 +1438,7 @@ session_start();
       <div class="container">
 
         <p class="copyright">
-          &copy; 2022 <a href="#">codewithsadee</a>. All Rights Reserved
+          &copy; 2022 <a href="#">The Dominators</a>. All Rights Reserved
         </p>
 
       </div>
